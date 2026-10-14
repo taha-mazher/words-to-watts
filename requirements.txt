@@ -1,0 +1,7 @@
+torch  # install the CUDA build: pip install torch --index-url https://download.pytorch.org/whl/cu124
+transformers
+accelerate
+datasets
+bitsandbytes
+pyarrow!=19.0.0
+matplotlib
